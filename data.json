@@ -1,0 +1,8 @@
+[
+  {"id":1, "name":"藍属性", "AdvantageousAttr":"Type01", "DisadvantageousAttr":"Type01"},
+  {"id":2, "name":"紅属性", "AdvantageousAttr":"Type01", "DisadvantageousAttr":"Type01"},
+  {"id":3, "name":"翠属性", "AdvantageousAttr":"Type01", "DisadvantageousAttr":"Type01"},
+  {"id":4, "name":"黄属性", "AdvantageousAttr":"Type01", "DisadvantageousAttr":"Type01"},
+  {"id":5, "name":"天属性", "AdvantageousAttr":"Type01", "DisadvantageousAttr":"Type01"},
+  {"id":6, "name":"冥属性", "AdvantageousAttr":"Type01", "DisadvantageousAttr":"Type01"}
+]
